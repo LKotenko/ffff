@@ -192,11 +192,8 @@ body {
   align-items: center;
   -webkit-box-pack: end;
   -ms-flex-pack: end;
-  justify-content: end;
-  margin: 0px 0px 0px -50px; }
-  @media (max-width: 1200px) {
-    .slider__title {
-      margin: 0px 0px 0px -150px; } }
+  justify-content: flex-end;
+  margin: 0px 0px 0px -100px; }
   @media (max-width: 900px) {
     .slider__title {
       font-size: 180px;
@@ -230,11 +227,8 @@ body {
   align-items: center;
   -webkit-box-pack: end;
   -ms-flex-pack: end;
-  justify-content: end;
-  margin: 120px 0px 0px -280px; }
-  @media (max-width: 1200px) {
-    .slider__text {
-      margin: 120px 0px 0px -150px; } }
+  justify-content: flex-end;
+  margin: 120px 0px 0px -100px; }
   @media (max-width: 900px) {
     .slider__text {
       font-size: 48px;
