@@ -67,11 +67,26 @@ body {
 				@media(max-width: 900px) {
 					margin: 50px 0px 0px 50px;
 				}
+				@media(max-width: 600px) {
+					margin: 50px 0px 0px 35px;
+				}
+				@media(max-width: 530px) {
+					margin: 50px 0px 0px 30px;
+				}
+				@media(max-width: 490px) {
+					margin: 50px 0px 0px 25px;
+				}
+				@media(max-width: 450px) {
+					margin: 50px 0px 0px 20px;
+				}
 				@media(max-width: 400px) {
 					font-size: 25px;
 					width: 150px;
 					height: 60px;
 					margin: 50px 0px 0px 15px;
+				}
+				@media(max-width: 370px) {
+					margin: 50px 0px 0px 13px;
 				}
 			}
 	
@@ -121,7 +136,7 @@ body {
 				@media(max-width: 600px) {
 					font-size: 120px;
 				}
-				@media(max-width: 430px) {
+				@media(max-width: 450px) {
 					font-size: 100px;
 					margin: 0px 0px 0px -15px;
 				}
@@ -155,7 +170,7 @@ body {
 					font-size: 32px;
 					margin: 90px 0px 0px -50px;
 				}
-				@media(max-width: 430px) {
+				@media(max-width: 450px) {
 					font-size: 27px;
 					margin: 70px 0px 0px -15px;
 				}
