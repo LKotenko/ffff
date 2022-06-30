@@ -6,9 +6,11 @@ $(document).ready(function() {
 		arrows: false,
 		dots: true,
 		speed: 2000,
-		//autoplay: true,
+		autoplay: true,
 		autoplaySpeed: 1500,
 		pauseOnFocus: false,
 		pauseOnHover: false,
+		draggable: false,
+		swipe: false,
 	});
 });
