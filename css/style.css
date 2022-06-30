@@ -193,7 +193,7 @@ body {
   -webkit-box-pack: end;
   -ms-flex-pack: end;
   justify-content: end;
-  margin: 0px 0px 0px -280px; }
+  margin: 0px 0px 0px -50px; }
   @media (max-width: 1200px) {
     .slider__title {
       margin: 0px 0px 0px -150px; } }
